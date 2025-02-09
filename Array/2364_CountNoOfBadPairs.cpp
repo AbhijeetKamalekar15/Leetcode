@@ -1,3 +1,4 @@
+//Leetcode
 class Solution {
     public:
         static long long countBadPairs(vector<int>& nums) {
